@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
