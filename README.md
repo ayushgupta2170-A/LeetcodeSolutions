@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
