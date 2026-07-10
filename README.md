@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/3536-maximum-product-of-two-digits) |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
