@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0162-find-peak-element) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0162-find-peak-element) |
 ## Matrix
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
