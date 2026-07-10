@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0013-roman-to-integer) |
+| [3136-valid-word](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/3136-valid-word) |
 ## Sliding Window
 |  |
 | ------- |
