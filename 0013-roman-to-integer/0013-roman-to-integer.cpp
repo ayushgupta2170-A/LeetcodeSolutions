@@ -10,11 +10,11 @@ public:
 
     int result = 0;
 
-    for(int i=0;i<s.length(); i++){
-        if(i+1<s.length() && mp[s[i]]<mp[s[i+1]]){
-            result-=mp[s[i]];
+    for(int i = 0; i < s.length(); i++){
+        if(i + 1 < s.length() && mp[s[i]] < mp[s[i+1]]){
+            result -= mp[s[i]];
         } else {
-            result+=mp[s[i]];
+            result += mp[s[i]];
         }
     }
 
