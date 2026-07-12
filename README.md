@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0239-sliding-window-maximum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0234-palindrome-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0258-add-digits) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Number Theory
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
