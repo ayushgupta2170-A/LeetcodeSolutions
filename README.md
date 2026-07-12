@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0258-add-digits) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0239-sliding-window-maximum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,11 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0258-add-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
