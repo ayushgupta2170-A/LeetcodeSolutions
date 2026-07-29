@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0383-ransom-note) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
