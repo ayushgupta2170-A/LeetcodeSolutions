@@ -10,10 +10,6 @@ public:
             int mn=INT_MAX;
             int x=nums[i];
 
-            if(x==0){
-                //mx=mn=0;
-            }
-
             while(x>0){
                 int b=x%10;
                 mn=min(mn,b);
