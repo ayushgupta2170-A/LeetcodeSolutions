@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2643-row-with-maximum-ones](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/2643-row-with-maximum-ones) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0074-search-a-2d-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
 | ------- |
