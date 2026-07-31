@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0234-palindrome-linked-list](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0917-reverse-only-letters) |
 ## Binary Search
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0832-flipping-an-image) |
 | [2643-row-with-maximum-ones](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0832-flipping-an-image) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Number Theory
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
