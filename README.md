@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0239-sliding-window-maximum) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0832-flipping-an-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
