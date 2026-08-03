@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0075-sort-colors) |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0152-maximum-product-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
