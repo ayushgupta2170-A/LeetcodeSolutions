@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0739-daily-temperatures) |
