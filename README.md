@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0739-daily-temperatures) |
@@ -173,14 +174,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Counting
 |  |
