@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0414-third-maximum-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0917-reverse-only-letters](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0917-reverse-only-letters) |
