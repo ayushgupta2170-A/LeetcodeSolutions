@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0917-reverse-only-letters) |
 | [3136-valid-word](https://github.com/ayushgupta2170-A/Leetcode2/tree/master/3136-valid-word) |
 ## Sliding Window
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0032-longest-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ayushgupta2170-A/LeetcodeSolutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
